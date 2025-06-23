@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="snake.svg" alt="Snake animation" />
+<img src="https://github.com/thejas2246/thejas2246/blob/output/snake.svg" alt="Snake animation" />
 
 ###
